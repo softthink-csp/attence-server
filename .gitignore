@@ -1,2 +1,4 @@
 # Default ignored files
 .idea
+attence-service/attence-check-service/target
+attence-service/attence-employee-service/target
